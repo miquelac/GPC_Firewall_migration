@@ -62,3 +62,18 @@ for row in excel_data.iterrows():
     click_toggle_checkbox(url_compose)
 
 ```
+
+<br>
+
+### Output of the composed urls ( modified )
+
+``` bash 
+
+https://dash.cloudfxxxxxxxjust_for_testing_pruposesxxxxxxnpt.net/security/bots/configure
+https://dash.cloudfnpt.com/middle url goes here /security/bots/configure
+https://dash.cloudflare.com/2d68f5667dasd76ds676s968f7d726981f7c2/example-api.dev.tsakd.com/security/bots/configure
+https://dash.example.com/2das2343bf568etestingf7c2/customer.dev.pt.com/security/bots/configure
+https://dash.cloudflare.com/2d67777777777777777981f7c2/delivery-access.test.com/security/bots/configure
+
+```
+
